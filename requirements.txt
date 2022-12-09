@@ -1,0 +1,5 @@
+# Function dependencies, for example:
+# package>=version
+pillow
+urllib3
+torchvision
